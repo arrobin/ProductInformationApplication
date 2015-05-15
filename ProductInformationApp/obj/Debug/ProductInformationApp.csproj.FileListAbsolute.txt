@@ -1,0 +1,18 @@
+E:\.NET Web App(Batch-4)\13-05-2015\ProductInformationApp\ProductInformationApp\bin\Debug\ProductInformationApp.exe.config
+E:\.NET Web App(Batch-4)\13-05-2015\ProductInformationApp\ProductInformationApp\bin\Debug\ProductInformationApp.exe
+E:\.NET Web App(Batch-4)\13-05-2015\ProductInformationApp\ProductInformationApp\bin\Debug\ProductInformationApp.pdb
+E:\.NET Web App(Batch-4)\13-05-2015\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.csprojResolveAssemblyReference.cache
+E:\.NET Web App(Batch-4)\13-05-2015\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.ProductInfoUI.resources
+E:\.NET Web App(Batch-4)\13-05-2015\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.Properties.Resources.resources
+E:\.NET Web App(Batch-4)\13-05-2015\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.csproj.GenerateResource.Cache
+E:\.NET Web App(Batch-4)\13-05-2015\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.exe
+E:\.NET Web App(Batch-4)\13-05-2015\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.pdb
+D:\OPPVB.NETC#\SEIP\13-05-2015\ProductInformationApp\ProductInformationApp\bin\Debug\ProductInformationApp.exe.config
+D:\OPPVB.NETC#\SEIP\13-05-2015\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.exe
+D:\OPPVB.NETC#\SEIP\13-05-2015\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.pdb
+D:\OPPVB.NETC#\SEIP\13-05-2015\ProductInformationApp\ProductInformationApp\bin\Debug\ProductInformationApp.exe
+D:\OPPVB.NETC#\SEIP\13-05-2015\ProductInformationApp\ProductInformationApp\bin\Debug\ProductInformationApp.pdb
+D:\OPPVB.NETC#\SEIP\13-05-2015\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.csprojResolveAssemblyReference.cache
+D:\OPPVB.NETC#\SEIP\13-05-2015\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.ProductInfoUI.resources
+D:\OPPVB.NETC#\SEIP\13-05-2015\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.Properties.Resources.resources
+D:\OPPVB.NETC#\SEIP\13-05-2015\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.csproj.GenerateResource.Cache
